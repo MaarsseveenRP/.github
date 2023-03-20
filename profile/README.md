@@ -1,1 +1,1 @@
-<script src="https://betteruptime.com/widgets/announcement.js" data-id="149275" async="async" type="text/javascript"></script>
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/ife4.svg)](https://betteruptime.com/?utm_source=status_badge)
